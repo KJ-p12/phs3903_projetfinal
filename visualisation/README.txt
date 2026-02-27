@@ -1,0 +1,1 @@
+Algorithmes pour visualiser l'état du système. Voir les molécules dans une interface utilisateur.

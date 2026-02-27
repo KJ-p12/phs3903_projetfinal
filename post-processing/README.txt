@@ -1,1 +1,1 @@
-Algorithmes servant à traiter les données résultantes et à en tirer des quantités d'intérêt.
+Algorithmes servant à traiter les données résultantes et à en tirer des quantités d'intérêt. (Température, pression, entropie, capacité calorifique, ...)

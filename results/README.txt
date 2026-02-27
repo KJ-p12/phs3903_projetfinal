@@ -1,0 +1,1 @@
+Directory où se trouveront les résultats bruts des simulations (état du système à chaque pas de temps)
